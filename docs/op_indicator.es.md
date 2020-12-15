@@ -1,3 +1,5 @@
+[English](op_indicator.md) • [Русский](install_on_firefox_for_android.ru.md)
+
 # Indicador para el autor del hilo
 Esta es una función que muestra un indicador en los hilos al lado del nombre de
 usuario del autor, para ayudar a los EPs saber si el autor ha participado en
