@@ -1,4 +1,4 @@
-[En español](op_indicator.es.md)
+[En español](op_indicator.es.md) • [Русский](install_on_firefox_for_android.ru.md)
 
 # OP indicator
 This is a feature which shows an indicator in threads next to the OP's username,
